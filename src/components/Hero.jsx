@@ -59,7 +59,7 @@ const Hero = () => {
           className="flex flex-col sm:flex-row gap-4"
         >
           <a
-            href="https://drive.google.com/file/d/15b13pyiKbiwWqEN15-VnMPccmCvoggzB/view"
+            href="https://drive.google.com/file/d/1HJwdBTTJ8o_mejDZ4rQhtZo_cC22DIYQ/view"
             target="_blank"
             rel="noopener noreferrer"
             className="group relative px-8 py-3 rounded-full text-white font-medium bg-gradient-to-r from-blue-500 to-purple-600 hover:scale-105 transition-transform duration-300 shadow-lg shadow-blue-500/30 overflow-hidden"
